@@ -1,0 +1,34 @@
+---
+title: "Table of Contents"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# File List
+
+## Calculator.R
+
+The Calculator.R file let's me do basic calculations
+
+# **Random.Rmd**
+
+Intorduction to code chunks and RMD files
+
+Introduction to the sample () command
+
+# **NG.RMD**
+
+numerical and graphical exploration- graphs and summaries
+
+# **DBQClimate.csv**
+
+Climate data for DBQ
+
+## Nhl_elo_latest.csv
+
+hockey data
+
+# OES.RMD
